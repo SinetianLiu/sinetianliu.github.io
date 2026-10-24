@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "documentId": "25ed7035-5213-4c20-b97f-38775d2d43e2",
+      "kind": "Post",
+      "source": "_posts/hello-world.md",
+      "fingerprint": "df2bd488f70bdf689691bfa9243de8b0f1966f6330df986ec3580edf35397c8d"
+    },
+    {
+      "documentId": "3a21b7f4-a5ac-4740-9937-340fd09aa77b",
+      "kind": "Page",
+      "source": "about/index.md",
+      "fingerprint": "0c01f378a2c20e332938e9d651537c802a40f002266932015cb274b0dc29d70a"
+    }
+  ]
+}
